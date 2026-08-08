@@ -1,9 +1,9 @@
 ## Hi, Welcome to my GitHub! 
 
 <h3><i>Have a look at my <a href="http://uppathidev.github.io/">profile</a>!</i></h3>
-<img src="assets/img/profile.jpg" align="right" height="200">
+<img src="https://avatars.githubusercontent.com/u/9625384?v=4" align="right" height="200">
 
-<p>Senior Full Stack Engineer with 9+ years of experience in developing high-performance fintech systems using <b>NestJS, Node.js, Angular, React/React Native and GenAI</b>. 
+<p>10 years of experience delivering 99% uptime applications handling 1M+ daily transactions. Expertise in React / React Native, Angular, Node.js, NestJS, MongoDB and GenAI.</b>. 
   
 Expertise in delivering 99% uptime trading platforms handling 1M+ daily transactions. Proven ability to optimize UX performance (50% faster load times), lead cross-functional teams (<b>achieving ~$400K cost savings</b>), and build compliant solutions for banking, fintech, and retail domains.</p>
 
